@@ -1,9 +1,9 @@
-![](https://komarev.com/ghpvc/?username=shadowmilk-crk&color=698ee7)
+![](https://komarev.com/ghpvc/?username=winnietism&color=698ee7)
 
 gyaatttt 
 
-read my rentry for proper info
-
-usually at docks or around here when alone
-
-![](https://64.media.tumblr.com/7e36b7e17980f1d2e206861f33619538/cb0ab88e4b82c093-9e/s640x960/ba8819d826796816a84469dec4fea46ab1249a7b.pnj)
+hello! you mightve came onto my page from pony town, if not then just dont interact >.>
+my name is winnie/elkie/xiru
+i am 13 years old, pushing 14 in may (apologies to those that i have lied to)
+if you couldnt tell i like cold front ok
+timezone is gmt+11 (dst)
