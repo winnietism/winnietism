@@ -6,4 +6,4 @@ hello! you mightve came onto my page from pony town, if not then just dont inter
 my name is winnie/elkie/xiru
 i am 13 years old, pushing 14 in may (apologies to those that i have lied to)
 if you couldnt tell i like cold front ok
-timezone is gmt+11 (dst)
+timezone is gmt+10
