@@ -12,7 +12,7 @@
     </td>
   </tr>
 </table>
-<img src="https://komarev.com/ghpvc/?username=shadowmilk-crk&color=698ee7&label=ㅤㅤswaggersㅤㅤ" alt="profile view counter" align="center"> ㅤㅤㅤㅤwinnieㅤᵒᵘㅤelkie
+<img src="https://komarev.com/ghpvc/?username=shadowmilk-crk&color=6726b6&label=ㅤㅤswaggersㅤㅤ" alt="profile view counter" align="center"> ㅤㅤㅤㅤwinnieㅤᵒᵘㅤelkie
 
 ㅤ ㅤㅤㅤㅤㅤㅤㅤ[𝓇entry](https://rentry.co/winnietism)ㅤㅤ⅋ㅤㅤ[𝒶ta](https://winniebosko.atabook.org/)
 
