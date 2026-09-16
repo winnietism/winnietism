@@ -32,5 +32,5 @@
 
  <details>
   <summary> ${\textsf{\color{#6726b6}  ℘}}$ ${\textsf{\color{#fcf3b1}  other accounts. }}$ </summary><br>
-         <a href="https://github.com/nene-kusanagi">@nene-kusanagi</a>, <a href="https://github.com/winnie-bosko">@winnie-bosko</a>, <a href="https://github.com/Avery-The-Mayo">@Avery-The-Mayo</a>, <a href="https://github.com/ashswaggers">@ashswaggers</a>      ${\textsf{\color{#93060c}✚ }}$ <br>
+         <a href="https://github.com/nene-kusanagi">@nene-kusanagi</a>, <a href="https://github.com/winnie-bosko">@winnie-bosko</a>, <a href="https://github.com/Avery-The-Mayo">@Avery-The-Mayo</a>, <a href="https://github.com/ashswaggers">@ashswaggers</a>      ${\textsf{\color{#6726b6}✚ }}$ <br>
  </details>
